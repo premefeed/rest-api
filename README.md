@@ -29,7 +29,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
     }
 
 ----------
-**Login as Existing User**
+<h3>Login as Existing User</h3>
 
     POST /api/user/login
 
@@ -46,7 +46,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
  
  ----------
 
-**Reset User Password**
+<h3>Reset your password</h3>
 
     POST /api/user/reset
 
@@ -67,7 +67,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 
 ----------
 
-**Log out as existing user**
+<h3>Log out</h3>
 
     POST /api/user/logout
 
@@ -84,8 +84,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 **Note: When you log out your user token get's reset**
 
 ----------
-
-**View your current user information**
+<h3>View your current user information</h3>
 
     GET /api/user/me
 
@@ -120,7 +119,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 ----------
 <h1>Brand Routes</h1>
 
-**View a list of all featured brands**
+<h3>View a list of all featured brands</h3>
 
     GET /api/brand/list/featured
 
@@ -154,7 +153,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 ----------
 
 
-**View a list of all available brands**
+<h3>View a list of all available brands</h3>
 
     GET /api/brand/list
 
@@ -187,7 +186,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 
 ----------
 
-**Find Brand by ID**
+<h3>Find Brand by ID</h3>
 
     GET /api/brand/:id
 
@@ -213,7 +212,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 ----------
 <h1>Subscription Routes</h1>
 
-**Subscribe to a brand**
+<h3>Subscribe to a brand</h3>
 
     POST /api/subscribe/:id
 
@@ -231,7 +230,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 
 ----------
 
-**Unsubscribe to a brand**
+<h3>Unsubscribe to a brand</h3>
 
     POST /api/unsubscribe/:id
 
