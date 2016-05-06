@@ -7,7 +7,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 ----------
 <h1>User Routes</h1>
 
-**Create User**
+<h3>Create User</h3>
 
     POST /api/user/register
 
