@@ -1,9 +1,8 @@
 # PremeFeed REST API Documentation
 
-<img src="https://avatars1.githubusercontent.com/u/16073020?v=3&s=200" />
-
 Base URL:  server-premefeed.rhcloud.com
 
+Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <a href="mailto:steelesam72@gmail.com">Sam</a> for help.
 
 ----------
 <h1>User Routes</h1>
