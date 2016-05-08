@@ -66,6 +66,27 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 
 ----------
 
+<h3>Edit Profile </h3>
+
+    PUT /api/user/edit
+
+***Form Parameters (Content-Type: application/x-www-form-urlencoded) :***
+
+ - **name**
+ - **email**
+
+***URL Parameter:***
+
+ - **access_token**: Use the token received when authenticating.
+
+***Example Response:***
+
+    {
+      "message": "Profile successfully changed."
+    }
+
+----------
+
 <h3>Log out</h3>
 
     POST /api/user/logout
