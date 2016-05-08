@@ -4,8 +4,7 @@ Base URL:  server-premefeed.rhcloud.com
 
 Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <a href="mailto:steelesam72@gmail.com">Sam</a> for help.
 
-----------
-<h1>User Routes</h1>
+# User Routes
 
 <h3>Create User</h3>
 
@@ -117,7 +116,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
     }
 
 ----------
-<h1>Brand Routes</h1>
+# Brand Routes
 
 <h3>View a list of all featured brands</h3>
 
@@ -210,7 +209,7 @@ Have any questions? contact <a href="mailto:thepcmrtim@gmail.com">Peter</a> or <
 
 
 ----------
-<h1>Subscription Routes</h1>
+# Subscription Routes
 
 <h3>Subscribe to a brand</h3>
 
